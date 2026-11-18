@@ -13,7 +13,6 @@ int main() {
     string partyName;
     int numGuest;
     int slicePerGuest;
-    
+    return 0;
 }
 
-    return 0;
